@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Credentials
+credentials.json
+.env
+
+# Documents
+/documents
+document.md
